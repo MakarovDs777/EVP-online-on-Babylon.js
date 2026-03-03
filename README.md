@@ -11,3 +11,7 @@
 Во третей версии наконец-то я создал бесконечный ЭГФ из каши байтов полученных из множество аудио!
 
 [EVP on Babylon.js (Version 2 - Endless EVP BYTE-SHUFFLER) | Babylon.js Playground](https://playground.babylonjs.com/#9HLEBB)
+
+В четвертой версии мы сделаем бесконечный процедурно генерируемый белый шум от 0 до 255 формате диапазаоне генерации чисел.
+
+[EVP on Babylon.js (Version 3 - Endless EVP Pure Data Sonification) | Babylon.js Playground](https://playground.babylonjs.com/#R3845Y)
