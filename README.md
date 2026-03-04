@@ -23,3 +23,7 @@
 Теперь сделаем это для третей версии.
 
 [EVP on Babylon.js (Version 5 - Endless EVP BYTE-SHUFFLER + BYTE EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#LGHP3P)
+
+Короче сделам всё остальнео.
+
+[EVP on Babylon.js (Version 6 - Endless EVP FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#8OX840)
