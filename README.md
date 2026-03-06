@@ -39,3 +39,7 @@
 Добавим рикошеты от шарика к шарику.
 
 [EVP on Babylon.js (Version 9 - Endless EVP Pure Data Sonification on Laser Ball Targets + Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#F0ZRNU)
+
+Сделаем версию с телевизорм цветным TV EVP.
+
+[EVP on Babylon.js (Version 10 - Endless EVP TV Pure Data Sonification on Laser Ball Targets Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#ZOUH7B)
