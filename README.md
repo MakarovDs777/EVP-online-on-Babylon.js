@@ -43,3 +43,7 @@
 Сделаем версию с телевизорм цветным TV EVP.
 
 [EVP on Babylon.js (Version 10 - Endless EVP TV Pure Data Sonification on Laser Ball Targets Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#ZOUH7B)
+
+Но получается что она делает это лентой за лентой а мне нужно что-бы сразу было.
+
+[EVP on Babylon.js (Version 11 - Endless EVP TV FULL COVERAGE Pure Data Sonification on Laser Ball Targets Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#F7A6MZ)
