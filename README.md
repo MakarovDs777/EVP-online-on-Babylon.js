@@ -59,3 +59,5 @@
 Лдано сделаем это как доску ударного звучания когда шарики падают на доску то проявляется обрезок звука столько сколько она намогничеена к доске.
 
 [EVP on Babylon.js (Version 14 - Endless EVP BOARD 2: Shock Sounding Board) | Babylon.js Playground](https://playground.babylonjs.com/#3B2GUL)
+
+[EVP on Babylon.js (Version 15 - Endless EVP Plywood Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#MQ54LO)
