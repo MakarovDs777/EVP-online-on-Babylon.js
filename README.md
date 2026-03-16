@@ -75,3 +75,7 @@
 Версия с ЭГФ трубой разделенная на 2 секции 1 секция разрывает аудио на байты, и 2 секция воспроизводит байты.
 
 [EVP on Babylon.js (Version 18 - Endless EVP Tube binary) | Babylon.js Playground](https://playground.babylonjs.com/#FMP39Z)
+
+Теперь сделаем трубу вместо сферы.
+
+[EVP on Babylon.js (Version 19 - Endless EVP Tube rainbow TV with pixel binding) | Babylon.js Playground](https://playground.babylonjs.com/#ZWV7W1)
