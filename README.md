@@ -80,6 +80,6 @@
 
 [EVP on Babylon.js (Version 19 - Endless EVP Tube rainbow TV with pixel binding) | Babylon.js Playground](https://playground.babylonjs.com/#ZWV7W1)
 
-[EVP on Babylon.js (Version 20 - EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#Y2FQGB)
+[EVP on Babylon.js (Version 20 - EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#Y2FQGB#1)
 
 [EVP on Babylon.js (Version 21 - Endless EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#DN3KDB)
