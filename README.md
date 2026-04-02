@@ -83,3 +83,5 @@
 [EVP on Babylon.js (Version 20 - EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#Y2FQGB#2)
 
 [EVP on Babylon.js (Version 21 - Endless EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#DN3KDB)
+
+[EVP on Babylon.js (Version 22 - EVP BYTE BOX) | Babylon.js Playground](https://playground.babylonjs.com/#B7FAMC)
