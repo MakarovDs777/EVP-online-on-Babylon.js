@@ -60,7 +60,7 @@
 
 [EVP on Babylon.js (Version 14 - Endless EVP BOARD 2: Shock Sounding Board) | Babylon.js Playground](https://playground.babylonjs.com/#3B2GUL)
 
-Теперь нужно сделать ЭГФ фанеру для множество аудио обрезков выбранных файлов аудио.
+Теперь нужно сделать ЭГФ фанеру для множество аудио обрезков выбранных файлов аудио.https://github.com/MakarovDs777/EVP-online-on-Babylon.js/blob/main/README.md
 
 [EVP on Babylon.js (Version 15 - Endless EVP Plywood Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#MQ54LO#1)
 
@@ -83,6 +83,8 @@
 [EVP on Babylon.js (Version 20 - EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#Y2FQGB#2)
 
 [EVP on Babylon.js (Version 21 - Endless EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#DN3KDB)
+
+Коробка ЭГФ шарики курсируют туда сюда и попадая на плоскость активации активруют байты звука.
 
 [EVP on Babylon.js (Version 22 - EVP BYTE BOX) | Babylon.js Playground](https://playground.babylonjs.com/#B7FAMC)
 
