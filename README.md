@@ -84,8 +84,6 @@
 
 [EVP on Babylon.js (Version 21 - Endless EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#DN3KDB)
 
-Коробка ЭГФ шарики курсируют туда сюда и попадая на плоскость активации активруют байты звука.
-
 [EVP on Babylon.js (Version 22 - EVP BYTE BOX) | Babylon.js Playground](https://playground.babylonjs.com/#B7FAMC)
 
 [EVP on Babylon.js (Version 23 - EVP BYTE GUN) | Babylon.js Playground](https://playground.babylonjs.com/#E2JVVL)
