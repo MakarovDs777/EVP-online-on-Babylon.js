@@ -101,3 +101,7 @@
 [EVP on Babylon.js (Version 30 - EVP BYTE CUBES IN CUBE) | Babylon.js Playground](https://playground.babylonjs.com/#TCDJ9X)
 
 [EVP on Babylon.js (Version 31 - EVP BYTE CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#RN024C)
+
+[EVP on Babylon.js (Version 32 - EVP BYTE SYMBOLS CUBES IN CUBE) | Babylon.js Playground](https://playground.babylonjs.com/#SI3QZP#1)
+
+[EVP on Babylon.js (Version 33 - EVP BYTE NUMBERS CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#K8HX1I)
