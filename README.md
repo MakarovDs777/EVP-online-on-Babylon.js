@@ -97,3 +97,5 @@
 [EVP on Babylon.js (Version 28 - EVP BYTE MUSIC WALL) | Babylon.js Playground](https://playground.babylonjs.com/#GM33CD)
 
 [EVP on Babylon.js (Version 29 - EVP BYTE MUSIC WALL GUN RUSSIAN VERSION) | Babylon.js Playground](https://playground.babylonjs.com/#LTCE6F)
+
+[EVP on Babylon.js (Version 30 - EVP BYTE CUBES IN CUBE) | Babylon.js Playground](https://playground.babylonjs.com/#TCDJ9X)
