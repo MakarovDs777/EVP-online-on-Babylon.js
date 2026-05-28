@@ -84,6 +84,8 @@
 
 [EVP on Babylon.js (Version 21 - Endless EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#DN3KDB)
 
+Коробка порезанная плоскость которая равномернно разделенна на байты активации звуков.
+
 [EVP on Babylon.js (Version 22 - EVP BYTE BOX) | Babylon.js Playground](https://playground.babylonjs.com/#B7FAMC)
 
 [EVP on Babylon.js (Version 23 - EVP BYTE GUN) | Babylon.js Playground](https://playground.babylonjs.com/#E2JVVL)
@@ -114,8 +116,12 @@
 
 [EVP on Babylon.js (Version 35 - EVP BYTE SYMBOLS PLANE RUSSIAN: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#NGWFR9)
 
+Тоже что и с предыдущими только с числами, и байтами звуков.
+
 [EVP on Babylon.js (Version 36 - EVP BYTE NUMBERS PLANE: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#328RDG)
+
+Тоже что и предыдущая только с числами без звука.
 
 [EVP on Babylon.js (Version 37 - EVP NUMBERS PLANE: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#RE12UM#1)
 
-[EVP on Babylon.js (Version 38 - Endless EVP FINAL version + EVP TV) | Babylon.js Playground](https://playground.babylonjs.com/#KB1PCD#2)
+[EVP on Babylon.js (Version 38 - Endless EVP SPIRITRON TV) | Babylon.js Playground](https://playground.babylonjs.com/#KB1PCD#3)
