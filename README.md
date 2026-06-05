@@ -125,3 +125,5 @@
 [EVP on Babylon.js (Version 37 - EVP NUMBERS PLANE: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#RE12UM#1)
 
 [EVP on Babylon.js (Version 38 - Endless EVP SPIRITRON TV) | Babylon.js Playground](https://playground.babylonjs.com/#KB1PCD#4)
+
+[EVP on Babylon.js (Version 39 - EVP BYTE WORDS TEXT CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#N558VO)
