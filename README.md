@@ -127,3 +127,5 @@
 [EVP on Babylon.js (Version 38 - Endless EVP SPIRITRON TV) | Babylon.js Playground](https://playground.babylonjs.com/#KB1PCD#4)
 
 [EVP on Babylon.js (Version 39 - EVP BYTE WORDS TEXT CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#N558VO)
+
+[EVP on Babylon.js (Version 40 - EVP BYTE WORDS TEXT CUBES IN CUBE SPHERE) | Babylon.js Playground](https://playground.babylonjs.com/#AM56H2)
