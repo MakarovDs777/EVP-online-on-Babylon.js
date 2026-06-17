@@ -129,3 +129,5 @@
 [EVP on Babylon.js (Version 39 - EVP BYTE WORDS TEXT CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#N558VO)
 
 [EVP on Babylon.js (Version 40 - EVP BYTE WORDS TEXT CUBES IN CUBE SPHERE) | Babylon.js Playground](https://playground.babylonjs.com/#AM56H2)
+
+[EVP on Babylon.js (Version 41 - EVP BYTE TEXT WORDS GUN) | Babylon.js Playground](https://playground.babylonjs.com/#RFHHGA)
