@@ -130,4 +130,4 @@
 
 [EVP on Babylon.js (Version 40 - EVP BYTE WORDS TEXT CUBES IN CUBE SPHERE) | Babylon.js Playground](https://playground.babylonjs.com/#AM56H2)
 
-[EVP on Babylon.js (Version 41 - EVP BYTE TEXT WORDS GUN) | Babylon.js Playground](https://playground.babylonjs.com/#RFHHGA)
+[EVP on Babylon.js (Version 41 - EVP BYTE TEXT WORDS GUN) | Babylon.js Playground](https://playground.babylonjs.com/#RFHHGA#1)
