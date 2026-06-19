@@ -135,3 +135,5 @@
 [EVP on Babylon.js (Version 42 - EVP SHUFFLER TEXT) | Babylon.js Playground](https://playground.babylonjs.com/#V1HGQN)
 
 [EVP on Babylon.js (Version 43 - EVP SHUFFLER WORD TEXT) | Babylon.js Playground](https://playground.babylonjs.com/#M9673G)
+
+[EVP on Babylon.js (Version 44 - EVP SHUFFLER WORD MORE TEXT) | Babylon.js Playground](https://playground.babylonjs.com/#SZ10P7)
