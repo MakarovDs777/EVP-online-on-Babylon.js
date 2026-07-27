@@ -26,7 +26,7 @@
 
 Короче сделам всё остальное.
 
-[EVP on Babylon.js (Version 6 - Endless EVP FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#8OX840)
+[EVP on Babylon.js (Version 6 - Endless EVP FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#8OX840#1)
 
 Ладно вернемся к 4 версии и заменим числа на байты.
 
