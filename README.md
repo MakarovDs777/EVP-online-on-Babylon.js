@@ -137,3 +137,5 @@
 [EVP on Babylon.js (Version 43 - EVP SHUFFLER WORD TEXT) | Babylon.js Playground](https://playground.babylonjs.com/#M9673G)
 
 [EVP on Babylon.js (Version 44 - EVP SHUFFLER WORD MORE TEXT) | Babylon.js Playground](https://playground.babylonjs.com/#SZ10P7)
+
+[EVP on Babylon.js (Version 45 - EVP TV 2: Random video pixel mosaic shuffler) | Babylon.js Playground](https://playground.babylonjs.com/#EM5ULE)
