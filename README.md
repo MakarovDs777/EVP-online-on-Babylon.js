@@ -40,7 +40,7 @@
 
 [EVP on Babylon.js (Version 9 - Endless EVP Pure Data Sonification on Laser Ball Targets + Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#F0ZRNU)
 
-Сделаем версию с телевизорм цветным TV EVP.
+Сделаем версию с телевизором цветным TV EVP.
 
 [EVP on Babylon.js (Version 10 - Endless EVP TV Pure Data Sonification on Laser Ball Targets Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#ZOUH7B)
 
@@ -52,11 +52,11 @@
 
 [EVP on Babylon.js (Version 12 - Endless EVP Plywood) | Babylon.js Playground](https://playground.babylonjs.com/#XFQ86C)
 
-Доска ЭГФ как прозрачная или нет туда шарики падают и одни случайно проскалзивают другие случайно нет.
+Доска ЭГФ как прозрачная или нет туда шарики падают и одни случайно проскальзывают другие случайно нет.
 
 [EVP on Babylon.js (Version 13 - Endless EVP Plywood Granular Station Visual) | Babylon.js Playground](https://playground.babylonjs.com/#DLLTXN)
 
-Ладно сделаем это как доску ударного звучания когда шарики падают на доску то проявляется обрезок звука столько сколько она намогничеена к доске.
+Ладно сделаем это как доску ударного звучания когда шарики падают на доску то проявляется обрезок звука столько сколько она намагничена к доске.
 
 [EVP on Babylon.js (Version 14 - Endless EVP BOARD 2: Shock Sounding Board) | Babylon.js Playground](https://playground.babylonjs.com/#3B2GUL)
 
@@ -84,7 +84,7 @@
 
 [EVP on Babylon.js (Version 21 - Endless EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#DN3KDB)
 
-Коробка порезанная плоскость которая равномернно разделенна на байты активации звуков.
+Коробка порезанная плоскость которая равномерно разделена на байты активации звуков.
 
 [EVP on Babylon.js (Version 22 - EVP BYTE BOX) | Babylon.js Playground](https://playground.babylonjs.com/#B7FAMC)
 
@@ -108,7 +108,7 @@
 
 [EVP on Babylon.js (Version 33 - EVP BYTE NUMBERS CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#K8HX1I)
 
-Я любил в детстве играть в сегу у моего двоюрдного брата Даннила была Денди а у меня была Сега, и моей самой любимой игрой была Крэш Бандикот а именно тот уровень с боссом на этой строительной площадке где поле порезанное на плитки, и босс который стрелял динамитами эти динамиты попадали на плитки - взрывали их, и туда уже нельзя было наступать снова, и сложность состояла в том что нужно за определённый период времени рассчитать в уме куда попдаёт динамит, и растянуть это процесс что-бы как можно дольше что-бы как можно больше плиток осталось на которые можно было перепрыгнуть, и как можно больше урона нанести боссу что-бы его победить. И я решил перенести эту концепцию на коробку ЭГФ только вместо множество шаров которые туда сюда летают в случайных направлениях сделать шарик которые катается по плоскости случайно потом залипает на 1 секунду активирует звук, и тут же делат снова случайно движение в случайном направлении к последующей плитке оставля динамит которые взрывает ту плитку на которой он был.
+Я любил в детстве играть в сегу у моего двоюродного брата Даниила была Денди а у меня была Сега, и моей самой любимой игрой была Крэш Бандикот а именно тот уровень с боссом на этой строительной площадке где поле порезанное на плитки, и босс который стрелял динамитами эти динамиты попадали на плитки - взрывали их, и туда уже нельзя было наступать снова, и сложность состояла в том что нужно за определённый период времени рассчитать в уме куда попадает динамит, и растянуть это процесс что-бы как можно дольше что-бы как можно больше плиток осталось на которые можно было перепрыгнуть, и как можно больше урона нанести боссу что-бы его победить. И я решил перенести эту концепцию на коробку ЭГФ только вместо множество шаров которые туда сюда летают в случайных направлениях сделать шарик которые катается по плоскости случайно потом залипает на 1 секунду активирует звук, и тут же делать снова случайно движение в случайном направлении к последующей плитке оставлять динамит которые взрывает ту плитку на которой он был.
 
 [EVP on Babylon.js (Version 34 - EVP BYTE PLANE The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#1MTR9O)
 
@@ -139,3 +139,5 @@
 [EVP on Babylon.js (Version 44 - EVP SHUFFLER WORD MORE TEXT) | Babylon.js Playground](https://playground.babylonjs.com/#SZ10P7)
 
 [EVP on Babylon.js (Version 45 - EVP TV 2: Random video pixel mosaic shuffler) | Babylon.js Playground](https://playground.babylonjs.com/#EM5ULE)
+
+[EVP on Babylon.js (Version 46 - EVP on Quantum foam) | Babylon.js Playground](https://playground.babylonjs.com/#Z033LQ)
