@@ -143,3 +143,5 @@
 [EVP on Babylon.js (Version 46 - EVP on Quantum foam) | Babylon.js Playground](https://playground.babylonjs.com/#Z033LQ)
 
 [EVP on Babylon.js (Version 47 - EVP multythreads) | Babylon.js Playground](https://playground.babylonjs.com/#JC6MPW#1)
+
+[EVP on Babylon.js (Version 48 - EVP Final + Multitracks) | Babylon.js Playground](https://playground.babylonjs.com/#FOZITS)
