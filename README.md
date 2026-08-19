@@ -70,7 +70,7 @@
 
 Теперь нужно сделать для ЭГФ обрезков.
 
-[EVP on Babylon.js (Version 17 - Scope sphere of audio activation by dragging the Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#BGOYF7)
+[EVP on Babylon.js (Version 17 - Scope sphere of audio activation by dragging the Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#BGOYF7#1)
 
 Версия с ЭГФ трубой разделенная на 2 секции 1 секция разрывает аудио на байты, и 2 секция воспроизводит байты.
 
